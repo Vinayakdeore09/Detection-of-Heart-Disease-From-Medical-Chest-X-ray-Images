@@ -80,7 +80,7 @@ jupyter notebook X-Ray.ipynb
 
 ### 📊 Results
 
-Validation Accuracy: \~XX%
+Validation Accuracy: ~85%
 
 ROC-AUC: XX (per class ROC can be visualized in the notebook)
 
